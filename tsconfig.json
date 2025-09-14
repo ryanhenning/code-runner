@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "allowJs": true,
+    "isolatedModules": false
+  },
+  "include": ["src/**/*" /* Include all files in the 'src' directory. */],
+  "exclude": ["node_modules", "jest.config.js"]
+}
